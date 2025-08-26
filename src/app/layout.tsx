@@ -64,7 +64,10 @@ export default function RootLayout({
               </div> */}
               <div className='mx-auto mt-16 w-full max-w-2xl flex flex-col'>
                 <div className="border border-orange-500 rounded-xl p-2">
-                  <SearchBar />
+                  {/* Suspense fixes the useSearchParams issue */}
+                  <Suspense fallback={<div>Loading search...</div>}>
+                    <SearchBar />
+                  </Suspense>
                 </div>
                 {children}
               </div>
