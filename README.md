@@ -23,8 +23,6 @@ It lets you search through your data using **natural language queries**, powered
 ### Search in Action
 ![Search Demo](./public/screenshots/search.gif)
 
-*(You can replace these paths with your own screenshots / demo GIFs later.)*
-
 ---
 
 ## 📂 Project Structure
