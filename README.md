@@ -20,9 +20,6 @@ It lets you search through your data using **natural language queries**, powered
 ### Home Page
 <img width="959" height="446" alt="Screenshot 2025-08-26 002250" src="https://github.com/user-attachments/assets/87782465-58ff-4cc5-8dff-70b73dc80b1c" />
 
-### Search in Action
-![Search Demo](./public/screenshots/search.gif)
-
 ---
 
 ## 📂 Project Structure
